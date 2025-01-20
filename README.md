@@ -24,9 +24,9 @@ A simple weather application built using HTML, CSS, JavaScript, and a weather AP
    ```
 2. Navigate to the project directory:
    ```bash
-   cd weather-app
+   cd Weather-Application
    ```
-3. Install any dependencies if there are any (e.g., npm packages).
+3. Navigate to `Script.js` and update the Api key and Url
 4. Open the `index.html` file in a web browser to view the application.
 
 ## Usage
