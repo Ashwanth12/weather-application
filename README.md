@@ -14,13 +14,13 @@ A simple weather application built using HTML, CSS, JavaScript, and a weather AP
 - **HTML**: For the structure of the application.
 - **CSS**: For styling and layout of the app.
 - **JavaScript**: For dynamic behavior and interacting with the weather API.
-- **Weather API**: (e.g., OpenWeatherMap API) to fetch real-time weather data.
+- **Weather API**: (e.g., OpenWeather API) to fetch real-time weather data.
 
 ## Setup
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/Ashwanth12/weather-application.git
    ```
 2. Navigate to the project directory:
    ```bash
