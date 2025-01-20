@@ -1,5 +1,5 @@
-const apiKey = "faf8f9e7a7e04ee98da25242252001";
-const url = "http://api.weatherapi.com/v1/current.json";
+const apiKey = "Your-Api-key";
+const url = "weatherapi-url";
 
 document
   .getElementById("get-weather-btn")
